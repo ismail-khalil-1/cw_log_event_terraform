@@ -31,4 +31,3 @@ else
   echo "Log events fetched successfully"
   cat "$OUTPUT_FILE"
 fi
-
